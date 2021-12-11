@@ -1,0 +1,217 @@
+.header1{
+position: absolute;
+width: 1280px;
+height: 68px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+}
+
+.header2{
+position: absolute;
+width: 1000vh;
+height: 56px;
+left: 0px;
+top: 69px;
+
+/* B0D1D8 */
+
+background: #B0D1D8;
+opacity: 0.5;
+}
+
+.divaligntop{
+ margin-top: 205px;
+ margin-left: 50px;
+}
+.percentage{
+    font-size: 30px;
+    text-align: center;
+    margin-top: -60px;
+    margin-left: -0px;
+    color: #39364F;
+    opacity: 0.6;
+
+}
+.pathway{
+position: absolute;
+width: 283px;
+height: 30px;
+left: 173px;
+top: 200px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #39364F;
+
+}
+
+.educationbutton{
+position: absolute;
+width: 116px;
+height: 48px;
+left: 173px;
+top: 245px;
+text-emphasis-color: white;
+border: 1px solid #B0D1D8;
+box-sizing: border-box;
+border-radius: 6px;
+}
+.empbutton{
+    position: absolute;
+    width: 116px;
+    height: 48px;
+    left: 305px;
+    top: 245px;
+    text-emphasis-color: white;
+    border: 1px solid #B0D1D8;
+    box-sizing: border-box;
+    border-radius: 6px;
+    }
+
+    .basicsdiv{
+        margin-top: 80px;
+        margin-left: 50px;
+    }
+    .card1{
+        background-color:  #F4F8F8;
+        border-radius: 3px;
+        position: absolute;
+        width: 357px;
+        height: 760px;
+        left: 50px;
+       
+    }
+    .card2{
+        background-color: white;
+        border-radius: 3px;
+        position: absolute;
+        height: 537px;
+        margin-left: -210px;
+       
+    }
+
+    .bluehead{
+       color:  #3A8D9D;
+    }
+
+    .teamdiv{
+        margin-top: 810px;
+        margin-left: 50px;
+    }
+    .teamcard1{
+        position: absolute;
+        width: 552px;
+        height: 190px;
+        background: #F4F8F8;
+        border-radius: 12px;
+    }
+
+    .teamcard2{
+        position: absolute;
+        width: 552px;
+        height: 190px;
+        background: #F4F8F8;
+        border-radius: 12px;
+        margin-left: -50px;
+    }
+
+
+    .teamcard3{
+        position: absolute;
+        width: 552px;
+        height: 190px;
+        background: #F4F8F8;
+        border-radius: 12px;
+        margin-left: -50px;
+        margin-top: 230px;
+        margin-left: 0px;
+    }
+    .teamcard4{
+        position: absolute;
+        width: 552px;
+        height: 190px;
+        background: #F4F8F8;
+        border-radius: 12px;
+        margin-left: -50px;
+        margin-top: 230px;
+     
+    }
+
+.indicatordiv{
+    margin-left: 50px;
+    margin-top: 480px;
+}
+.keycard1{
+            position: absolute;
+        width: 553px;
+        height: 125px;
+        background: #F4F8F8;
+        border-radius: 6px;
+}
+.keycard2{
+    position: absolute;
+width: 553px;
+height: 125px;
+margin-top: 200px;
+background: #F4F8F8;
+border-radius: 6px;
+}
+.keycardright1{
+    position: absolute;
+    width: 552px;
+    height: 111px;
+    background: #FFFFFF;
+    border: 1px solid #E6E5E5;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-left: -50px;
+    
+}
+.pinkrect{
+    position: absolute;
+    width: 7px;
+    height: 111px;
+    background: #FFB2B2;
+    border-radius: 6px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.keycardright2{
+    position: absolute;
+    width: 552px;
+    height: 111px;
+    background: #FFFFFF;
+    border: 1px solid #E6E5E5;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-left: 600px;
+    margin-top: 200px;
+    
+}
+.keycardright3{
+    position: absolute;
+    width: 552px;
+    height: 111px;
+    background: #FFFFFF;
+    border: 1px solid #E6E5E5;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-left: -50px;
+    margin-top: 350px;
+    
+}
+.budget{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.budgetimg{
+    margin-top: 550px;
+    margin-left: -138px;
+}
